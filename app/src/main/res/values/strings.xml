@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Grass Grazer</string>
+    <string name="scoreString">Score : </string>
+    <string name="instruction1">Graze the Grass</string>
+    <string name="instruction2">Avoid the Hunter Arrows</string>
+    <string name="cleanGrassRule">30 points - (Clean)</string>
+    <string name="dirtyGrassRule">10 points - (Dirty)</string>
+    <string name="gameOverRule">Game Over - (Arrows)</string>
+    <string name="grassQuote">\"The grass grows longer.."\"</string>
+    <string name="gameOverMsg">GAME OVER</string>
+    <string name="btnTryAgain">Try Again</string>
+    <string name="btnStart">Start</string>
+    <string name="btnHighscores">High Scores</string>
+    <string name="btnHome">Home</string>
+    <string name="tapToBegin">Tap to Begin</string>
+    <string name="scoreboard">Scoreboard</string>
+    <string name="enterName">Enter Your Initial</string>
+    <string name="save">Save</string>
+    <string name="play">Play</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
